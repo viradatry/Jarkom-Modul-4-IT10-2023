@@ -23,9 +23,14 @@ Sebelum kita melakukan setup pada node cpt, terlebih dahulu kita menghitung pemb
 ## Testing VLSM ##
 Setelah melakukan setup IP pada semua node langkah selanjutnya yaitu :
 
-1. melakukan testing pada `RiegelCanyon` - `Aura` jika testing yang dilakukan berhasil dia akan mendapatkan output seperti gambar dibawah ini
+1. melakukan testing pada `RiegelCanyon` - `Aura` jika testing yang dilakukan berhasil dia akan mendapatkan output seperti gambar dibawah ini `Successful`
 
 <img width="599" alt="RiegelCanyon - Aura" src="https://github.com/viradatry/Jarkom-Modul-4-IT10-2023/assets/113564685/2992f32c-f61a-4d6c-89e9-0bdd8b77145d">
 
-2. melakukan testing pada `GranzChannel` - `Turk Region` jika testing yang dilakukan berhasil dia akan mendapatkan output seperti gambar dibawah ini
+2. melakukan testing pada `GranzChannel` - `Turk Region` jika testing yang dilakukan berhasil dia akan mendapatkan output seperti gambar dibawah ini `Successful`
 <img width="603" alt="GranzChannel - Turk Region" src="https://github.com/viradatry/Jarkom-Modul-4-IT10-2023/assets/113564685/3c92b8d5-67fc-4ba1-9365-172e0ab93690">
+
+3. melakukan testing pada `Sein` - `Richter` jika testing yang dilakukan berhasil dia akan mendapatkan output seperti gambar dibawah ini `Successful`
+<img width="599" alt="Sein - Richter" src="https://github.com/viradatry/Jarkom-Modul-4-IT10-2023/assets/113564685/606f5497-ecc7-4471-8cbe-98b7483ea213">
+
+
